@@ -1,0 +1,17 @@
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\bin\Debug\net9.0\HouseOfVastrikaa.Infrastructure.deps.json
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\bin\Debug\net9.0\HouseOfVastrikaa.Infrastructure.dll
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\bin\Debug\net9.0\HouseOfVastrikaa.Infrastructure.pdb
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\bin\Debug\net9.0\HouseOfVastrikaa.Application.dll
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\bin\Debug\net9.0\HouseOfVastrikaa.Domain.dll
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\bin\Debug\net9.0\HouseOfVastrikaa.Application.pdb
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\bin\Debug\net9.0\HouseOfVastrikaa.Domain.pdb
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\obj\Debug\net9.0\HouseOfVastrikaa.Infrastructure.csproj.AssemblyReference.cache
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\obj\Debug\net9.0\HouseOfVastrikaa.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\obj\Debug\net9.0\HouseOfVastrikaa.Infrastructure.AssemblyInfoInputs.cache
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\obj\Debug\net9.0\HouseOfVastrikaa.Infrastructure.AssemblyInfo.cs
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\obj\Debug\net9.0\HouseOfVastrikaa.Infrastructure.csproj.CoreCompileInputs.cache
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\obj\Debug\net9.0\HouseOfV.CF9F7EA4.Up2Date
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\obj\Debug\net9.0\HouseOfVastrikaa.Infrastructure.dll
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\obj\Debug\net9.0\refint\HouseOfVastrikaa.Infrastructure.dll
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\obj\Debug\net9.0\HouseOfVastrikaa.Infrastructure.pdb
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Infrastructure\obj\Debug\net9.0\ref\HouseOfVastrikaa.Infrastructure.dll

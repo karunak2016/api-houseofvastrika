@@ -1,0 +1,15 @@
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\bin\Debug\net9.0\HouseOfVastrikaa.Application.deps.json
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\bin\Debug\net9.0\HouseOfVastrikaa.Application.dll
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\bin\Debug\net9.0\HouseOfVastrikaa.Application.pdb
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\bin\Debug\net9.0\HouseOfVastrikaa.Domain.dll
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\bin\Debug\net9.0\HouseOfVastrikaa.Domain.pdb
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\obj\Debug\net9.0\HouseOfVastrikaa.Application.csproj.AssemblyReference.cache
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\obj\Debug\net9.0\HouseOfVastrikaa.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\obj\Debug\net9.0\HouseOfVastrikaa.Application.AssemblyInfoInputs.cache
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\obj\Debug\net9.0\HouseOfVastrikaa.Application.AssemblyInfo.cs
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\obj\Debug\net9.0\HouseOfVastrikaa.Application.csproj.CoreCompileInputs.cache
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\obj\Debug\net9.0\HouseOfV.278B102B.Up2Date
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\obj\Debug\net9.0\HouseOfVastrikaa.Application.dll
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\obj\Debug\net9.0\refint\HouseOfVastrikaa.Application.dll
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\obj\Debug\net9.0\HouseOfVastrikaa.Application.pdb
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Application\obj\Debug\net9.0\ref\HouseOfVastrikaa.Application.dll

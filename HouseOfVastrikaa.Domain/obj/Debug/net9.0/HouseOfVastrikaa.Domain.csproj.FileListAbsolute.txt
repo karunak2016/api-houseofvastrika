@@ -1,0 +1,11 @@
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Domain\bin\Debug\net9.0\HouseOfVastrikaa.Domain.deps.json
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Domain\bin\Debug\net9.0\HouseOfVastrikaa.Domain.dll
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Domain\bin\Debug\net9.0\HouseOfVastrikaa.Domain.pdb
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Domain\obj\Debug\net9.0\HouseOfVastrikaa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Domain\obj\Debug\net9.0\HouseOfVastrikaa.Domain.AssemblyInfoInputs.cache
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Domain\obj\Debug\net9.0\HouseOfVastrikaa.Domain.AssemblyInfo.cs
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Domain\obj\Debug\net9.0\HouseOfVastrikaa.Domain.csproj.CoreCompileInputs.cache
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Domain\obj\Debug\net9.0\HouseOfVastrikaa.Domain.dll
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Domain\obj\Debug\net9.0\refint\HouseOfVastrikaa.Domain.dll
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Domain\obj\Debug\net9.0\HouseOfVastrikaa.Domain.pdb
+D:\project\vastrika\api-vastrika\HouseOfVastrikaa.Domain\obj\Debug\net9.0\ref\HouseOfVastrikaa.Domain.dll
